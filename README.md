@@ -1,6 +1,6 @@
 # Provide Insights to Revenue Team in the Hospitality Doamin
 
-## Domain : Hospitality         Function : Revenue
+#### Domain : Hospitality         Function : Revenue
 
 ## Problem Statement
 
