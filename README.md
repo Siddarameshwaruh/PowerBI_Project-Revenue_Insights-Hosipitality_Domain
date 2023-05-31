@@ -29,3 +29,8 @@ You are a data analyst who has been provided with sample data to work on the fol
   1. Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze
   2. Learnt, how to use bookmarks and selection for different purposes. Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection
   3. Tried using color palette and stick with that colors throughout the dashboard 
+
+## General View 
+
+![2023-05-31T12_02_06](https://github.com/Siddarameshwaruh/PowerBI_Project-Revenue_Insights-Hosipitality_Domain/assets/127327782/5227fc14-c705-4633-867d-b0d476288385)
+
