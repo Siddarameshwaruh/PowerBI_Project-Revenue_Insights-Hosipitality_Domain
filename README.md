@@ -27,5 +27,5 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Learnt things from this Project : 
 
   1. Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze
-  2. Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection
+  2. Learnt, how to use bookmarks and selection for different purposes. Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection
   3. Tried using color palette and stick with that colors throughout the dashboard 
