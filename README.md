@@ -13,6 +13,10 @@ You are a data analyst who has been provided with sample data to work on the fol
   1. Furnishing valuable insights on recapturing the market share within the luxury / business hotels category
   2. Comprehending the revenue pattern across different time frames such as weekly, monthly, or daily
   3. Obtaining valuable insights on areas where the business is struggling and identifying actionable steps to address those challenges
+
+## Data Model 
+
+![2023-05-31T12_54_41](https://github.com/Siddarameshwaruh/PowerBI_Project-Revenue_Insights-Hosipitality_Domain/assets/127327782/1e0ef294-0c74-4ab8-b1d4-a8a1d8c23d1d)
     
 ## General View 
 
@@ -43,3 +47,4 @@ You are a data analyst who has been provided with sample data to work on the fol
   1. Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze
   2. Learnt, how to use bookmarks and selection for different purposes. Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection
   3. Tried using color palette and stick with that colors throughout the dashboard 
+
