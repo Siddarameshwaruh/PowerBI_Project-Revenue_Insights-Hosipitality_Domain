@@ -10,7 +10,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 You are a data analyst who has been provided with sample data to work on the following task
 
-  1. Furnishing valuable insights on recapturing the market share within the luxury / business hotels category
-  2. Comprehending the revenue pattern across different time frames such as weekly, monthly, or daily
-  3. Obtaining valuable insights on areas where the business is struggling and 
-     identifying actionable steps to address those challenges
+    1. Furnishing valuable insights on recapturing the market share within the luxury / business hotels category
+    2. Comprehending the revenue pattern across different time frames such as weekly, monthly, or daily
+    3. Obtaining valuable insights on areas where the business is struggling and 
+       identifying actionable steps to address those challenges
